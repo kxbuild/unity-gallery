@@ -1,0 +1,19 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+.vs/
+.idea/
+.vsconfig
+
+# iOS export (regenerate with the export command in the README)
+/export/
